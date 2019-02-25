@@ -1,0 +1,23 @@
+body {
+    background: #B7BABC;
+}
+.thumbnail img {
+    width: 100%;
+}
+.thumbnail {
+    padding: 0;
+}
+#loginName {
+    color: white;
+}
+#navitems li{
+    color: lightgray;
+    font-size: 2rem;
+}
+#delete-form {
+    display: inline;
+}
+
+.delete-comment {
+    display: inline;
+}
